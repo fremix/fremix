@@ -4,7 +4,7 @@
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Freddy Morales a Developer from México.
+### Hello! I'm Freddy Morales a Developer Jr from México.
 
 ### Portfolio: https://fremi.github.io
 
@@ -37,11 +37,9 @@ Here are some ideas to get you started:
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-
 <br />
 
 ### 👨‍💻 Languages and Tools
-
 <br />
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
