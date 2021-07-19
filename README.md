@@ -56,8 +56,9 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+<!--
 <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
+-->
 <br />
 <br />
 <p align="center">
