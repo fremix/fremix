@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/fremi77/?hl=es">
   <img align="left" alt="Freddy Morales" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-</p>
+
 <br />
 
 ### 👨‍💻 Languages and Tools
@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+    </p>
 <!--
 <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 -->
