@@ -1,5 +1,13 @@
 ### Hola a todos... 👋
 
+![Web-developer](https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png)
+    
+## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+### Hello! I'm Brijesh Dhanani a Full Stack Developer from India.
+
+### Portfolio: https://brdhanani.github.io
+
 <!--
 **fremix/fremix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
