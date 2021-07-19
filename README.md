@@ -4,7 +4,7 @@
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Brijesh Dhanani a Full Stack Developer from India.
+### Hello! I'm Freddy Morales a Developer from México.
 
 ### Portfolio: https://brdhanani.github.io
 
