@@ -52,3 +52,5 @@ Here are some ideas to get you started:
 <p align='center'>
   <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
 </p>
+
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
