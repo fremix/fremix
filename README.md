@@ -58,12 +58,11 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-    </p>
+
 <!--
 <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 -->
 <br />
 <br />
-<p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
 </p>
