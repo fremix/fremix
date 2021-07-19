@@ -9,7 +9,7 @@
 ### Portfolio: https://fremi.github.io
 
 <br>
-    <img aling"center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">   
+    <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">   
     
 </abc>
 
