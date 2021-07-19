@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br />
+<br align="center" />
 <a href="https://twitter.com/fremi77">
   <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -43,10 +43,10 @@ Here are some ideas to get you started:
   <img align="left" alt="Freddy Morales" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br />
+<br align="center" />
 
 ### 👨‍💻 Languages and Tools
-<br />
+<br align="center" />
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
