@@ -7,6 +7,9 @@
 ### Hello! I'm Freddy Morales a Developer Jr from México.
 
 ### Portfolio: https://fremi.github.io
+
+<br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">   
     
 </abc>
 
