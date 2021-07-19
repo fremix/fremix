@@ -6,7 +6,7 @@
 
 ### Hello! I'm Freddy Morales a Developer from México.
 
-### Portfolio: https://brdhanani.github.io
+### Portfolio: https://fremi.github.io
 
 <!--
 **fremix/fremix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
