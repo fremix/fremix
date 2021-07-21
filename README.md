@@ -1,10 +1,10 @@
-## Hi there, I'm Freddy  👋
+## Hi there, I'm Freddy Morales a Developer Jr from México.  👋
 <abc>
 ![Web-developer](https://user-images.githubusercontent.com.png)
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Freddy Morales a Developer Jr from México.
+
 
 ### Portfolio: https://fremi.github.io
 
