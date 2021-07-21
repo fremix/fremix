@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 
 <br />
+### Feel Free to Contact me.....
 <p align="center">
 <a href="https://twitter.com/fremi77">
   <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -68,7 +69,7 @@ Here are some ideas to get you started:
 <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 -->
     
-### Feel Free to Contact me.....
+
 <!--
 <p align="center">
 	<a href="https://github.com/fremix"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
