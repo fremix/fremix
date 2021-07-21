@@ -71,5 +71,4 @@ Here are some ideas to get you started:
 <p align="center">    
   <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
 </p>
-![](https://komarev.com/ghpvc/?username=muskanrani&color=brightgreen)
-![](https://visitor-badge.glitch.me/badge?page_id=muskanrani.muskanrani)
+
