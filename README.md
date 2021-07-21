@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <br />
 <p align="center">
 <a href="https://twitter.com/fremi77">
@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Freddy Morales" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
+-->
 
 ### 👨‍💻 Languages and Tools
 <br />
@@ -71,7 +72,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 	<a href="https://github.com/fremix"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/freddy-gpe-morales-izquierdo/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.linkedin.com/in/freddy-gpe-morales-izquierdo/?locale=en_US/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/fremi.javax/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 	<a href="https://www.instagram.com/fremi77/?hl=es/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://twitter.com/fremi77"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
