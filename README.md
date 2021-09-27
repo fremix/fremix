@@ -1,6 +1,6 @@
 ## Hi there, I'm Freddy Morales a Developer Jr from México.  👋
 <abc>
-![Web-developer](https://user-images.githubusercontent.com.png)
+<!--[Web-developer](https://ibb.co/K6SSbrG)-->
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
