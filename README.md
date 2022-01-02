@@ -6,7 +6,7 @@
 
 
 
-### Portfolio: https://fremi.github.io
+### Portfolio: fr3m1-dev.netlify.app
 
 <br>
     <p align="center">
