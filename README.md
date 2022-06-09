@@ -1,4 +1,4 @@
-## Hi there, I'm Freddy Morales a Developer Jr from México.  👋
+## Hi there, I'm Freddy Morales a Developer Web Jr.  👋
 <abc>
 <!--[Web-developer](https://ibb.co/K6SSbrG)-->
     
