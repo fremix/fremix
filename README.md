@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/fremi77">
   <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/freddy-gpe-morales-izquierdo/">
+<a href="https://www.linkedin.com/in/freddy-/">
   <img align="left" alt="Freddy Morales" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/fremi.javax">
